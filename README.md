@@ -11,8 +11,8 @@ ca-harvester.sh
     chmod +x ca-havester.sh
     ./ca-harvester.sh 
 
-* (optional) edit ca-harvester.sh and modify SIZE_LIMIT 
 * when complete, view contents in the files/ directory
+* (optional) edit ca-harvester.sh and modify SIZE_LIMIT 
 
 # disclosure	
 I disclosed this vulnerability to the company that runs this service on 
