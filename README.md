@@ -11,8 +11,8 @@ ca-harvester.sh
     chmod +x ca-havester.sh
     ./ca-harvester.sh 
 
-(optional) edit ca-harvester.sh and modify SIZE_LIMIT 
-when complete, view contents in the files/ directory
+* (optional) edit ca-harvester.sh and modify SIZE_LIMIT 
+* when complete, view contents in the files/ directory
 
 # disclosure	
 I disclosed this vulnerability to the company that runs this service on 
@@ -26,7 +26,7 @@ this is open source software released under the Simplified BSD License
 # inspiration
 @dcurtis http://cargo.dustincurtis.com.s3.amazonaws.com/ 
 c l o u d a p p - rou let te.html 
-C l o u d A p p  banned that webapp, but did nothing more for users' privacy. 
+  C l o u d A p p  banned that webapp, but did nothing more for users' privacy. 
 The goal of this project was to prove that. 
 
 # ran_quote
