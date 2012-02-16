@@ -19,15 +19,15 @@ I disclosed this vulnerability to the company that runs this service on
 Thursday, 1 Dec 2011 at 23:09:20 -0600  The code was released Wednesday, 
 15 February 2012 at 20:09:15 -0600
 
-# license	
-this is open source software released under the Simplified BSD License 
-(http://www.opensource.org/licenses/bsd-license.php)
-
 # inspiration
 @dcurtis http://cargo.dustincurtis.com.s3.amazonaws.com/ 
 c l o u d a p p - rou let te.html 
   C l o u d A p p  banned that webapp, but did nothing more for users' privacy. 
 The goal of this project was to prove that. 
+
+# license	
+this is open source software released under the Simplified BSD License 
+(http://www.opensource.org/licenses/bsd-license.php)
 
 # ran_quote
 there were more but now drops
